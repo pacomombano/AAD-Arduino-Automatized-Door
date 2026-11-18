@@ -2,7 +2,7 @@
   AAD 1.0.0
   Arduino Automatized Door, written by Mombano e Carpento
   If you use this code, you accept terms in the license.
-  Last modify: 17/11/2026
+  Last modify: 18/11/2026
 */
 
 //Defining pin
