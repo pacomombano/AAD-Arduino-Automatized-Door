@@ -1,6 +1,6 @@
 /*
   AAD 1.0.0
-  Arduino Automatized Door, written by Mombano e Carpento
+  Arduino Automatized Door, written by Mombano e Carpento - didactic project
   If you use this code, you accept terms in the license.
   Last modify: 18/11/2026
 */
